@@ -1,0 +1,1 @@
+openssl enc -aes-256-cbc -salt -in lebenslauf.pdf -out lebenslauf_encrypted -pass pass:MEIN_GEHEIMES_PASSWORT
